@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hey there! 👋 I'm Joma
+
+Full Stack Software Engineer with experience in Rails, React, Redux, JavaScript, and PHP. Former entrepreneur with a passion for developing creative, aesthetic, and feature-rich applications. A highly organized & detail-oriented professional who actively seeks to expand his knowledge and skill set in the tech industry.
 
 <!--
 **jomapormentilla/jomapormentilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
